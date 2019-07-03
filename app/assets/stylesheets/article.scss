@@ -1,0 +1,14 @@
+// Place all the styles related to the article controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container {
+  width: 400px;
+  margin: 48px auto;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 48px;
+  background-color: rgba(0,0,0,0.2);
+}
